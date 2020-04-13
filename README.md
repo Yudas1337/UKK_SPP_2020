@@ -20,4 +20,4 @@ Simple Website Project UKK tema pembayaran spp .
 # Creditz Belongs to Ownerz :
 Facebook : [https://www.facebook.com/yudas1337](https://www.facebook.com/yudas1337)
 
-Gmail    : [yudasmalabi@gmail.com](yudasmalabi@gmail.com)
+Gmail    : [mailto:yudasmalabi@gmail.com](yudasmalabi@gmail.com)
